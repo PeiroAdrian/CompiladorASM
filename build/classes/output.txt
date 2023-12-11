@@ -1,0 +1,20 @@
+int n1
+int n2
+int suma
+int resta
+int multiplicacion
+int division
+=, 10, , n1
+=, 5, , n2
++, n1, n2, temp5
+=, temp5, , suma
+-, n1, n2, temp6
+=, temp6, , resta
+*, n1, n2, temp7
+=, temp7, , multiplicacion
+/, n1, n2, temp8
+=, temp8, , division
+print(suma)
+print(resta)
+print(multiplicacion)
+print(division)

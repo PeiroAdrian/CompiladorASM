@@ -1,0 +1,18 @@
+main(){
+                             new int n1;
+	new int n2;
+	new int suma;
+	new int resta;
+	new int multiplicacion;
+	new int division;
+	n1 = 3;
+	n2 = 6;
+	suma = n1 + n2;
+	resta = n1 - n2;
+	multiplicacion = n1 * n2;
+	division = n1 / n2;
+	print(suma);
+	print(resta);
+	print(multiplicacion);
+	print(division);
+}
